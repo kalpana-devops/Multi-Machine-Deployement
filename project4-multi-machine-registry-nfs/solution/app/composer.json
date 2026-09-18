@@ -1,0 +1,7 @@
+{
+"name": "kucl/php-redis-counter",
+"description": "Mini Project 1 solution - PHP + Redis visit counter",
+"require": {
+"predis/predis": "^2.2"
+}
+}
